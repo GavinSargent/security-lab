@@ -1,0 +1,6 @@
+
+
+Cypher is fairly simple. The first letter = 1 letter after, the 2 letter = two letters after, and so on to 4 letters. Letters wrap around from Z to A. Then the pattern starts over. Symbols are unchanged and capital letters are shown with a * in front. Numbers follow the same pattern from 0-9 with 9 wrapping around. Spaces are shown with random capital letters.
+
+I love cryptography!
+*jAnrzfLeucqvrkscslz!
